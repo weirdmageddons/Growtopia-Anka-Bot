@@ -25,10 +25,3 @@ Here are some screenshots of the project:
   <img src="https://s3.amazonaws.com/i.snag.gy/7Z9jTu.jpg" alt="Screenshot 1" width="375"/>
   <img src="https://s3.amazonaws.com/i.snag.gy/nXctxY.jpg?nocache=1721224106283" alt="Screenshot 2" width="440"/>
 </div>
-
-```cpp
-#include <iostream>
-int main() {
-    cout << "THIS IS FOR C++ TAG!" << endl;
-    return 0;
-}
