@@ -1,7 +1,7 @@
 # Anka-Bot
 - ✨ I am selling the source code of my Growtopia Multibot [Anka Bot] application,
 - ☄️ Discord: weirdmegaddon
-- 💰 Price: DM
+- 💰 Price: 140$ (140 dollars)
 
 ## Features
 
