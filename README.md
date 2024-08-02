@@ -5,6 +5,7 @@
 
 ## Features
 
+>- Supports Real GT & Private Servers
 >- Completed handler functions
 >- Real growtopia images, usage
 >- Automations (Rotation farm, auto farm, spam, etc.)
